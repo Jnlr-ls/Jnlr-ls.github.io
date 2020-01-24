@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-16T08:52:20.240Z</updated>
+  <updated>2020-01-24T04:35:28.503Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test.md</title>
+    <link href="http://yoursite.com/2020/01/24/Test-md/"/>
+    <id>http://yoursite.com/2020/01/24/Test-md/</id>
+    <published>2020-01-24T04:28:25.000Z</published>
+    <updated>2020-01-24T04:35:28.503Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>测试vscode</code></pre><a id="more"></a><h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><pre><code>我也不太清除，测试用</code></pre><h2 id="深入"><a href="#深入" class="headerlink" title="深入"></a>深入</h2><pre><code>正好交代一下，关于u盘备份，以及有这方面的软件，我就不多此一举，不过也可以做一个自己用的，备份到自己电脑。</code></pre><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><pre><code>就这样，溜溜球。平安，肺炎快走，病毒快走。江南车神并非浪得虚名（纯属瞎扯，个人记录用）</code></pre><h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://pzxjicv92.bkt.clouddn.com/images%20%282%29.jpg" alt="RUNOOB 图标"></h2><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><p><a href="http://www.youdianhuang.com" target="_blank" rel="noopener">www.youdianhuang.com</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;pre&gt;&lt;code&gt;测试vscode&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="有点意思" scheme="http://yoursite.com/tags/%E6%9C%89%E7%82%B9%E6%84%8F%E6%80%9D/"/>
+    
+  </entry>
   
   <entry>
     <title>如果网速够快，可以实现传送吗？</title>
